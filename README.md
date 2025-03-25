@@ -29,13 +29,3 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 💻 Screenshot
-
-<div align="center">
-  
-  #### Tablet
-  <img loading="lazy" src="./assets/screenshot-tablet.png" style="width: 100%" />
-  
-  #### Desktop
-  <img loading="lazy" src="./assets/screenshot-desktop.png" style="width: 100%" />
-
-</div>
