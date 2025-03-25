@@ -1,36 +1,41 @@
+# Lista de Compra
 
-![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+## ℹ️ Sobre
 
-# Titulo do projeto
+<p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+## 📘Ementa
 
-## 🔨 Funcionalidades do projeto
+### JavaScript: construindo páginas dinâmicas
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+- Aprender sobre manipulação do DOM para criar e modificar elementos HTML
+- Fazer uso de eventos para interatividade com o usuário
+- Formatar datas utilizando o objeto NewDate
+- Modularizar códigos com import e export
+- Aprender sobre criação de feedback visual com checkboxes interativos
+- Realizar melhorias da experiência do usuário em aplicações web
 
-![Inserção no campo de digitação do valor ração de gato, após, é clicado no botão de edição, onde é aberto um popup para digitar o novo do nome item, que foi digitado ração de cachorro. Em seguida, é clicado no botão de exclusão, e o item é excluído.](https://imgur.com/isPj7Xf.gif)
+## 🖥️ Tecnologias
 
-## ✔️ Técnicas e tecnologias utilizadas
+<div>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+</div>
 
-As técnicas e tecnologias utilizadas pra isso são:
+## 🧑‍🏫 Instrutor(es)
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/51282495?v=4" width=115><br><sub>Mônica Hillman</sub>](https://github.com/MonicaHillman) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-## 📁 Acesso ao projeto
+## 💻 Screenshot
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
+<div align="center">
+  
+  #### Tablet
+  <img loading="lazy" src="./assets/screenshot-tablet.png" style="width: 100%" />
+  
+  #### Desktop
+  <img loading="lazy" src="./assets/screenshot-desktop.png" style="width: 100%" />
 
-## 🛠️ Abrir e rodar o projeto
-
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
-
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
-
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
-
-
+</div>
